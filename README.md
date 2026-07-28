@@ -1,2 +1,2 @@
 # skill
-sports training app that help athletes improve in their game 
+sports training app that helps athletes improve in their game 
